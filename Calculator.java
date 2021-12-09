@@ -1,3 +1,5 @@
+//Written and owned by Christian Neij
+//This class was hastily written for an exam in Java programming that had a fixed time limit. Therefore parts of this class was written sloppily and could easily be improved.
 import javafx.application.Application;
 import javafx.geometry.Orientation;
 import javafx.geometry.Pos;
